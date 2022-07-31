@@ -1,1 +1,1 @@
-** Pokemon Go IV
+** Pokemon Go IV Reader **
